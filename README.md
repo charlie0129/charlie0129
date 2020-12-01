@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=charlie0129&repo=Link-Link)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![Charlie's github stats](https://github-readme-stats.vercel.app/api?username=charlie0129&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Charlie's github stats](https://github-readme-stats.vercel.app/api?username=charlie0129&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlie0129&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlie0129&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
