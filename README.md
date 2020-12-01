@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🏫 I'm currently studying at Beijing University of Posts and Telecommunications.
+- 🏫 I'm student at Beijing University of Posts and Telecommunications.
 - 🔭 I'm currently working on university study.
 - 🌱 I'm currently learning everything.
 - 📫 How to reach me: [outlook](mailto:charlie_c_0129@outlook.com)
-- ⚡ My current repositories are just some projects that I worked on. Chances are my code is not elegant, efficient or whatever🤪.
+- ⚡ Some of my repositories are just some projects that I worked on. Chances are my code is not elegant, efficient or whatever🤪.
 
 <!--
 **charlie0129/charlie0129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
