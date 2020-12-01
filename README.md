@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 [![Charlie's github stats](https://github-readme-stats.vercel.app/api?username=charlie0129&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlie0129&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlie0129&theme=buefy&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
