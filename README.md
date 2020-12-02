@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🏫 I'm student at Beijing University of Posts and Telecommunications.
+- 🏫 I'm a student at Beijing University of Posts and Telecommunications.
 - 🔭 I'm currently working on university study.
 - 🌱 I'm currently learning everything.
 - 📫 How to reach me: [outlook](mailto:charlie_c_0129@outlook.com)
