@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🏫 I'm a junior at Beijing University of Posts and Telecommunications.
-- 🔭 I'm currently working for [joyreserve](https://www.joyreserve.com/) this summer vacation as a frontend developer.
-- 🌱 I'm currently learning everything.
-- 📫 How to reach me: [outlook](mailto:charlie_c_0129@outlook.com)
-- ⚡ Some of my repositories are just some projects that I worked on. Chances are my code is not elegant, efficient or whatever🤪.
+- 🏫  I'm a junior at Beijing University of Posts and Telecommunications.
+- 🔭  I'm currently working for [joyreserve](https://www.joyreserve.com/) this summer vacation, as a frontend developer.
+- 🌱  I'm currently learning everything.
+- 📫  How to reach me: [outlook](mailto:charlie_c_0129@outlook.com)
+- ⚡  Some of my repositories are just some projects that I worked on. Chances are my code is not elegant, efficient or whatever🤪. Hope they are useful to you. Stars are always appreciated!
 
 <!--
 **charlie0129/charlie0129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,6 +36,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlie0129&theme=buefy&layout=compact&langs_count=6" />
 </a>
+
+
+
 <!--
 
 [![Charlie's github stats](https://github-readme-stats.vercel.app/api?username=charlie0129&count_private=true&show_icons=true&theme=buefy&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
