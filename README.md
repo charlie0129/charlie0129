@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 ### Some stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=charlie0129&count_private=true&show_icons=true&theme=buefy&show_icons=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=charlie0129&count_private=true&show_icons=true&theme=dracula&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlie0129&theme=buefy&layout=compact&langs_count=6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlie0129&theme=dracula&layout=compact&langs_count=6" />
 </a>
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charlie0129&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charlie0129&layout=compact&theme=dracula)](https://wakatime.com/@charlie0129)
 
 <!--
 
