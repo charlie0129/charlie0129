@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 ### Some stats:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/charlie0129/charlie0129">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=charlie0129&count_private=true&show_icons=true&theme=dracula&show_icons=true&include_all_commits=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/charlie0129/charlie0129">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlie0129&theme=dracula&layout=compact&langs_count=6" />
 </a>
 
