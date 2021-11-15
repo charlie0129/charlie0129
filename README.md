@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🏫  I'm a junior at Beijing University of Posts and Telecommunications.
-- 🔭  I'm currently working for [joyreserve](https://www.joyreserve.com/) this summer vacation, as a frontend developer.
+- 🔭  I'm quite busy currently (due to heavy schoolwork).
 - 🌱  I'm currently learning everything.
 - 📫  How to reach me: [outlook](mailto:charlie_c_0129@outlook.com)
 - ⚡  Some of my repositories are just some projects that I worked on. Chances are my code is not elegant, efficient or whatever🤪. Hope they are useful to you. Stars are always appreciated!
