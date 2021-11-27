@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlie0129&theme=dracula&layout=compact&langs_count=6" />
 </a>
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charlie0129&layout=compact&theme=dracula)](http://wakatime.charlie0129.top:10883)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charlie0129&layout=compact&theme=dracula)](http://wakatime.charlie0129.top)
 
 <!--
 
