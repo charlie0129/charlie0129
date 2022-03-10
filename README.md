@@ -2,9 +2,9 @@
 
 - 🏫  I'm a junior at Beijing University of Posts and Telecommunications.
 - 🔭  I'm quite busy currently (due to heavy schoolwork).
-- 🌱  I'm currently learning everything.
+- 🌱  I'm currently learning microservices, Go, and Kubernetes.
 - 📫  How to reach me: [outlook](mailto:charlie_c_0129@outlook.com)
-- ⚡  Some of my repositories are just some projects that I worked on. Chances are my code is not elegant, efficient or whatever🤪. Hope they are useful to you. Stars are always appreciated!
+- ⚡  My public repositories are just some projects that I worked on over the years. Chances are that code from my early projects is not elegant, efficient or whatever🤪 (I am always improving my code quality). Hope they are useful to you. Stars are always appreciated!
 
 <!--
 **charlie0129/charlie0129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
