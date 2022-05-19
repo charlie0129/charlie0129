@@ -33,10 +33,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/charlie0129/charlie0129">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=charlie0129&count_private=true&show_icons=true&theme=dracula&show_icons=true&include_all_commits=true" />
 </a>
+<br/>
 <a href="https://github.com/charlie0129/charlie0129">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlie0129&theme=dracula&layout=compact&langs_count=6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlie0129&theme=dracula&card_width=445&layout=compact&langs_count=6" />
 </a>
-
+<br/>
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charlie0129&layout=compact&theme=dracula)](https://wakatime.charlie0129.top:30443)
 
 <!--
