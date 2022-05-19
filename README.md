@@ -21,28 +21,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=charlie0129&repo=smc_fan_util)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=charlie0129&repo=my-hammerspoon-config)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=charlie0129&repo=ege_based_painter_cpp)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=charlie0129&repo=Link-Link)](https://github.com/anuraghazra/github-readme-stats)
--->
-
 ### Some stats:
 
 <a href="https://github.com/charlie0129/charlie0129">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=charlie0129&count_private=true&show_icons=true&theme=dracula&show_icons=true&include_all_commits=true" />
 </a>
-<br/>
+
+<div/>
+
 <a href="https://github.com/charlie0129/charlie0129">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlie0129&theme=dracula&card_width=445&layout=compact&langs_count=6" />
 </a>
-<br/>
+
+<div/>
+
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charlie0129&layout=compact&theme=dracula)](https://wakatime.charlie0129.top:30443)
 
-<!--
-
-[![Charlie's github stats](https://github-readme-stats.vercel.app/api?username=charlie0129&count_private=true&show_icons=true&theme=buefy&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlie0129&theme=buefy&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
--->
