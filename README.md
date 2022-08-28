@@ -2,7 +2,7 @@
 
 - 🏫  I'm a junior at Beijing University of Posts and Telecommunications.
 - 🔭  Currently working on [KubeVela](https://github.com/kubevela).
-- 🌱  Interested in cloud-native technologies.
+- 🌱  Interested in infrastructure and app delivery.
 - 📫  Ask me anything. Here's how to reach me: [outlook](mailto:charlie_c_0129@outlook.com)
 - ⚡  My public repositories are just some projects that I worked on over the years. Chances are that code from my early projects is not elegant, efficient or whatever🤪 (I am always improving my code quality). Hope they are useful to you. Stars are always appreciated!
 
