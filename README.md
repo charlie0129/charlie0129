@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🏫  I'm a junior at Beijing University of Posts and Telecommunications.
-- 🔭  Currently working on [KubeVela](https://github.com/kubevela).
-- 🌱  Interested in infrastructure and app delivery.
+- 🏫  I'm a graduate student at Beijing University of Posts and Telecommunications.
+- 🌱  Interested in infrastructure.
 - 📫  Ask me anything. Here's how to reach me: [outlook](mailto:charlie_c_0129@outlook.com)
 - ⚡  My public repositories are just some projects that I worked on over the years. Chances are that code from my early projects is not elegant, efficient or whatever🤪 (I am always improving my code quality). Hope they are useful to you. Stars are always appreciated!
 
@@ -35,5 +34,5 @@ Here are some ideas to get you started:
 
 <div/>
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charlie0129&layout=compact&theme=dracula)](https://wakatime.charlie0129.top:30443)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charlie0129&layout=compact&theme=dracula)
 
