@@ -5,7 +5,15 @@
 - 💬  Ask me anything. Here's how to reach me: [outlook](mailto:charlie_c_0129@outlook.com)
 - 😄  My public repositories are small projects that I worked on over the years. Although I mostly work on internal (private) projects, I will sometimes write blogs to share the lessons I learned.
 - ⚡ Fun fact: I use macOS and Linux. I hate Windows (except some special cases). I'm allergic to disorganized systems. No ligering configuration files are allowed on my system.
+<!--
+### What I was working on?
 
+- 2019: Undergraduate life begins. Doing curricular work: small projects in C++, Java.
+- 2020: Start to realize the power of containers. I was packaging services on my server using Docker.
+- 2021-2022: Doing opensource projects related to Kubernetes (KubeVela) and became the Approver of KubeVela community. Deeper into cloud-native infrastructure.
+- 2023: Graduate life begins (which is miserable, I cannot go into detail currently). Doing nothing. Wasting life.
+- 2024: Someone saved me. (Details will be provided in the future). Working on AI infra, including networking, scheduling, and inference optimizations. Managing clusters of over 10k GPUs.
+-->
 <!--
 **charlie0129/charlie0129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
