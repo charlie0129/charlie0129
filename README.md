@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🏫  I'm an infrastructure engineer at [Zhipu AI (z.ai)](https://z.ai) , also a graduate student at Beijing University of Posts and Telecommunications.
-- 🌱  Interested in infrastructure and enterprise hardware. I deal with **containers**, **networking**, **Kubernetes**, and **Linux** a lot. Over the years, I have worked on _containeriztion of applications_ (2020), _app delivery using Kubernetes_ (2021-2022), and now I am working on _AI infra_ (2024+). Oh sorry I typed AI and now you must be saying: ahhh this guy is saying AI again! Nope, I am also tired of this AI hype and by saying AI infra I actually mean inference optimizations, networking, scheduling, and etc.
+- 🏫  I'm an infrastructure engineer at [Zhipu AI (z.ai)](https://z.ai).
+- 🌱  Interested in infrastructure and enterprise hardware. I deal with **containers**, **networking**, **Kubernetes**, and **Linux** a lot. Over the years, I have worked on _containeriztion of applications_ (2020), _app delivery using Kubernetes_ (2021-2022), and now I am working on _AI infra_ (2024+) like inference optimizations, networking, scheduling, and etc.
 - 💬  Ask me anything. Here's how to reach me: [outlook](mailto:charlie_c_0129@outlook.com)
 - 😄  My public repositories are small projects that I worked on over the years. Although I mostly work on internal (private) projects, I will sometimes write blogs to share the lessons I learned.
 - ⚡ Fun fact:
